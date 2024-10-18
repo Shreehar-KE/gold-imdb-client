@@ -7,7 +7,6 @@ Gold IMDb Client is a React-based web application designed to provide an interac
 
 ## Features
 
-Features
 - Dynamic Movie Browsing: Users can view a list of movies fetched from the backend.
 - Trailer Playback: Each movie entry includes a link to its trailer, which can be played directly in the application.
 - Review Functionality: Users can submit reviews for individual movies, enhancing community engagement.
