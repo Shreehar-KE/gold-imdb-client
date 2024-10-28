@@ -1,9 +1,9 @@
 # Server code
-[gold-imdb-server](https://github.com/Shreehar-KE/gold-imdb-server)
+[movie-critix-server](https://github.com/Shreehar-KE/movie-critix-server)
 
-# Movie Review Frontend Client
+# Movie Critix Client
 
-Gold IMDb Client is a React-based web application designed to provide an interactive user interface for browsing movies, watching trailers, and submitting reviews. This client communicates with a Spring Boot backend API, allowing users to seamlessly interact with the movie database.
+Movie Critix Client is a React-based web application designed to provide an interactive user interface for browsing movies, watching trailers, and submitting reviews. This client communicates with a Spring Boot backend API, allowing users to seamlessly interact with the movie database.
 
 ## Features
 
